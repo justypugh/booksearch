@@ -1,0 +1,12 @@
+section {
+    text-align: center;
+    background-color: lightgray;
+}
+
+.search-form {
+    background-color: rgb(182, 182, 182);
+}
+
+#search {
+    background-color: rgb(252, 252, 199);
+}
